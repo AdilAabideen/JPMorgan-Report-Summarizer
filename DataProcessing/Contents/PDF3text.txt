@@ -1,0 +1,36 @@
+
+Adjusted Table of Contents
+
+1. Financial:
+   - Three-Year Summary of Consolidated Financial Highlights: Page 46 → Page 1
+   - Five-Year Stock Performance: Page 47 → Page 2
+
+2. Management's Discussion and Analysis:
+   - Introduction: Page 48 → Page 3
+   - Executive Overview: Page 49 → Page 4
+   - Consolidated Results of Operations: Page 54 → Page 9
+   - Consolidated Balance Sheets and Cash Flows Analysis: Page 58 → Page 13
+   - Explanation and Reconciliation of the Firm's Use of Non-GAAP Financial Measures: Page 62 → Page 17
+   - Business Segment Results: Page 65 → Page 20
+   - Firmwide Risk Management: Page 86 → Page 41
+   - Strategic Risk Management: Page 90 → Page 45
+   - Capital Risk Management: Page 91 → Page 46
+   - Liquidity Risk Management: Page 102 → Page 57
+   - Credit and Investment Risk Management: Page 111 → Page 66
+   - Market Risk Management: Page 135 → Page 90
+   - Country Risk Management: Page 144 → Page 99
+   - Climate Risk Management: Page 146 → Page 101
+   - Operational Risk Management: Page 147 → Page 102
+   - Critical Accounting Estimates Used by the Firm: Page 155 → Page 110
+   - Accounting and Reporting Developments: Page 159 → Page 114
+   - Forward-Looking Statements: Page 161 → Page 116
+
+3. Audited Financial Statements:
+   - Management’s Report on Internal Control Over Financial Reporting: Page 162 → Page 117
+   - Report of Independent Registered Public Accounting Firm: Page 163 → Page 118
+   - Consolidated Financial Statements: Page 166 → Page 121
+   - Notes to Consolidated Financial Statements: Page 171 → Page 126
+
+4. Supplementary Information:
+   - Distribution of Assets, Liabilities, and Stockholders' Equity; Interest Rates and Interest Differentials: Page 310 → Page 265
+   - Glossary of Terms and Acronyms: Page 315 → Page 270
